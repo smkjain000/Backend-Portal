@@ -82,6 +82,7 @@ public class Welcome {
 			}
 		}catch(Exception e) {
 			System.out.println("Enter valid choice");
+			break;
 			
 		}
 		}
